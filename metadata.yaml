@@ -1,0 +1,31 @@
+_repo: Dickens-London_30390
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Mansfield, M.F
+    - Mansfield, Milburg Francisco
+    - Miltoun, Francis
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+description: ''
+gutenberg_issued: '2009-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- In literature'
+- !lcc 'DA'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Homes and haunts -- England -- London'
+- !lcsh 'Literary landmarks -- England -- London'
+title: Dickens' London
+url: http://www.gutenberg.org/ebooks/30390
